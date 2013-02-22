@@ -81,7 +81,7 @@ body {
 
 .header-container {
 	padding: 20px;
-	background: rgba(40,60,130,.5);
+	background: rgba(0,0,0,.5);
 }
 
 .main aside {
@@ -90,7 +90,7 @@ body {
 
 .footer-container,
 .main aside {
-    background: rgba(40,60,130,.5);
+    background: rgba(0,0,0,.5);
 }
 
 .title {
